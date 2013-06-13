@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ekool.github.io/atom.xml" rel="self"/>
   <link href="http://ekool.github.io/"/>
-  <updated>2013-06-12T22:01:02-05:00</updated>
+  <updated>2013-06-12T22:02:56-05:00</updated>
   <id>http://ekool.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test post...]]></title>
+    <link href="http://ekool.github.io/blog/2013/06/12/test-post-dot-dot-dot/"/>
+    <updated>2013-06-12T22:02:00-05:00</updated>
+    <id>http://ekool.github.io/blog/2013/06/12/test-post-dot-dot-dot</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
